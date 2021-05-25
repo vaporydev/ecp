@@ -1,4 +1,4 @@
-##### Ethereum chain parser
+##### Vapory chain parser
 
 **E**thereum **C**hain **P**arser listens for Ethereum (block) chain events and turns them into MongoDB
 records (currently). This could be easily extended to allow importing to
